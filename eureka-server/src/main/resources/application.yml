@@ -1,0 +1,21 @@
+server:
+  port: ${port:80}
+
+spring:
+  application:
+    name: eureka-server
+
+eureka:
+  client:
+    service-url:
+      defaultZone: ${defaultZone:http://localhost:80/eureka}
+#      defaultZone: ${defaultZone1:http://localhost:80/eureka},${defaultZone2:http://localhost:80/eureka}
+#     不注册自己
+    register-with-eureka: false
+#     布拉取服务
+    fetch-registry: false
+  server:
+    #服务失效剔除间隔时间,默认60000
+    eviction-interval-timer-in-ms: 60000
+    #配置自我保护机制,默认是开启的
+    enable-self-preservation: false

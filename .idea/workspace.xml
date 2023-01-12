@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f684d22-d6c8-469f-bdd2-1440bf1feb1e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vuejs-demo" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../IDE/Maven/apache-maven-3.3.9" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\Developer\IDE\Maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BghTjGBYcLAZNkDqgtqgGrBGR6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Developer/Data/Learning/greatshop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "f8096d46864e11885b389eec3e8081d2"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ericsson.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Developer\Data\Learning\springcloud\springcloud\user-service\src\main\java\com\ericsson" />
+      <recent name="C:\Developer\Data\Learning\springcloud\springcloud\vue-demo" />
+      <recent name="C:\Developer\Data\Learning\springcloud\springcloud\vue-demo\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PayDemo">
+    <configuration name="PayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ericsson.demo.PayDemo" />
+      <module name="Pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ericsson.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ericsson.Test" />
+      <module name="Pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ericsson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ericsson.gateway.lambdaDemo.Test" />
+      <module name="ericsson-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ericsson.gateway.lambdaDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ericsson.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ericsson.consumer.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ericsson.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ericsson-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ericsson.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ericsson.PayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ericsson.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ericsson.UserServiceDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PayDemo" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f684d22-d6c8-469f-bdd2-1440bf1feb1e" name="Default Changelist" comment="" />
+      <created>1657333644613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657333644613</updated>
+      <workItem from="1657333646475" duration="554000" />
+      <workItem from="1657334213906" duration="1306000" />
+      <workItem from="1657339337676" duration="1792000" />
+      <workItem from="1657347876610" duration="663000" />
+      <workItem from="1657348584722" duration="11275000" />
+      <workItem from="1657500952484" duration="919000" />
+      <workItem from="1657509087468" duration="1939000" />
+      <workItem from="1657637513528" duration="1852000" />
+      <workItem from="1657698052204" duration="12000" />
+      <workItem from="1657706008452" duration="739000" />
+      <workItem from="1658041429616" duration="4000" />
+      <workItem from="1658115605876" duration="2000" />
+      <workItem from="1658131885340" duration="4202000" />
+      <workItem from="1658198585929" duration="4279000" />
+      <workItem from="1658217557904" duration="5574000" />
+      <workItem from="1658470328462" duration="604000" />
+      <workItem from="1658553100396" duration="10474000" />
+      <workItem from="1658564921113" duration="496000" />
+      <workItem from="1658632873370" duration="360000" />
+      <workItem from="1658905274668" duration="21000" />
+      <workItem from="1658905593854" duration="635000" />
+      <workItem from="1658965197183" duration="19000" />
+      <workItem from="1658967513306" duration="113000" />
+      <workItem from="1658994809452" duration="1245000" />
+      <workItem from="1658999510739" duration="1237000" />
+      <workItem from="1659315872933" duration="1956000" />
+      <workItem from="1659353808446" duration="46000" />
+      <workItem from="1659409814261" duration="5652000" />
+      <workItem from="1659498793522" duration="2912000" />
+      <workItem from="1659579917585" duration="3893000" />
+      <workItem from="1659664164542" duration="4560000" />
+      <workItem from="1659923088970" duration="2754000" />
+      <workItem from="1660359988548" duration="2507000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Pay/src/main/java/com/ericsson/demo/PayDemo.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
