@@ -8,10 +8,11 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: ${defaultZone:http://localhost:80/eureka}
+#      defaultZone: ${defaultZone:http://localhost:80/eureka}
 #      defaultZone: ${defaultZone1:http://localhost:80/eureka},${defaultZone2:http://localhost:80/eureka}
-#     不注册自己
-    register-with-eureka: false
+      defaultZone: http://localhost:${port1:80}/eureka,http://localhost:${port2:80}/eureka
+#     是否注册到eureka
+    register-with-eureka: true
 #     布拉取服务
     fetch-registry: false
   server:

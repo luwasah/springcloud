@@ -29,13 +29,19 @@ public class ConsumerController {
     @Resource
     private DiscoveryClient discoveryClient;
 
-    @GetMapping("/{id}")
+    @GetMapping("/nofeign/{id}")
 //    @HystrixCommand(fallbackMethod = "queryUserByIdFallBack")
     @HystrixCommand
     public String queryUserById(@PathVariable Long id){
         if(id == 1){
-            throw new RuntimeException("系统忙!");
+            throw new RuntimeException("系统异常!");
         }
+/*        try{
+            Thread.sleep(2000);
+        }catch (Exception e){
+            log.info(e.getMessage());
+        }*/
+
 //        List<ServiceInstance> instances = discoveryClient.getInstances("user-service");
 //        ServiceInstance instance = instances.get(0);
 //        String url = "http://"+ instance.getHost() +":"+ instance.getPort() +"/user/"+id;
@@ -50,7 +56,7 @@ public class ConsumerController {
     }
 
     public String defaultFallback(){
-        return "默认提示: 对不起,网路太拥挤了!";
+        return "默认提示: 系统繁忙，请稍后再试!";
     }
 
 }
